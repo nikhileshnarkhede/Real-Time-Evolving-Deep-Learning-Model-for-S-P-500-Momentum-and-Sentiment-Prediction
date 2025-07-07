@@ -15,14 +15,14 @@ This project presents a **real-time adaptive deep learning framework** that comb
 
 ## 📂 Project Structure
 
-\`\`\` bash
+```bash
 ├── News_Perseverance_.ipynb               # Sentiment analysis and text preprocessing
 ├── News_Perseverance_Loaded_Model.ipynb   # Inference using pre-trained sentiment model
 ├── S&P500_News_Per_Day_Data.ipynb         # Merging daily sentiment with stock prices
 ├── Stock_Price_Momentum_Prediction_using_History_Data.ipynb # LSTM training and prediction
 ├── MTH 601 Project Report.docx            # Full project documentation
 ├── README.md                              # Project overview
-\`\`\`
+```
 
 ---
 
@@ -78,9 +78,9 @@ This project presents a **real-time adaptive deep learning framework** that comb
 
 Install dependencies:
 
-\`\`\` bash
+```bash
 pip install yfinance pandas numpy tensorflow scikit-learn nltk selenium beautifulsoup4
-\`\`\`
+```
 
 Run notebooks in order:
 
